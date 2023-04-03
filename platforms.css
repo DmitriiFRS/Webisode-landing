@@ -17,11 +17,11 @@
    padding: 55px 108px 118px 108px;
    display: flex;
    align-items: center;
-   gap: 80px;
    margin: 0 auto;
    overflow: hidden;
 }
 .body-platforms__item {
+   margin: 0 20px;
    display: flex;
    flex: 0 1 auto;
    align-items: center;
